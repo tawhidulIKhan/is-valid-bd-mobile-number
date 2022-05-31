@@ -9,7 +9,7 @@ npm i bd-phone-number-validator
 ## Usage
 
 ```javascript
-const isValidBdMobileNumber = require("is-valid-bd-mobile-number");
+const isValidBdMobileNumber = require("is-valid-bd-phone");
 const validation = isValidBdMobileNumber("+880150000000")
 console.log(validation)
 // will respond
