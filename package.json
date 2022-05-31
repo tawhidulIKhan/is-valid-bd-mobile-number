@@ -3,6 +3,11 @@
   "version": "1.0.1",
   "description": "is-valid-bd-phone is npm package to check whether the phone number is valid or not",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tawhidulIKhan/is-valid-bd-mobile-number"
+  },
+  "homepage": "https://github.com/tawhidulIKhan/is-valid-bd-mobile-number",
   "author": "Tawhidul Islam Khan",
   "license": "MIT"
 }
