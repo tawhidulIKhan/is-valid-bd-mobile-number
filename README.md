@@ -1,5 +1,5 @@
 ## Getting Started
-is-valid-bd-mobile-number is npm package to check if Bangladeshi mobile number is valid or not 
+is-valid-bd-mobile-number is npm package to check if Bangladeshi mobile number is valid or not and gets operator information
 ## Features
 * Any BD mobile phone number can be checked
 ## How to install
@@ -14,7 +14,8 @@ const validation = isValidBdMobileNumber("+880150000000")
 console.log(validation)
 // will respond
 {
-    isValid: true
+    isValid: true,
+    operator: "TeleTalk"
 }
 ```
 ## 🚀 Authors
