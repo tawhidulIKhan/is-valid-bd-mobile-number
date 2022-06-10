@@ -1,6 +1,6 @@
 {
   "name": "is-valid-bd-phone",
-  "version": "1.0.3",
+  "version": "1.0.2",
   "description": "is-valid-bd-phone is npm package to check whether the phone number is valid or not",
   "main": "index.js",
   "repository": {
